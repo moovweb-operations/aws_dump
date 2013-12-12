@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = AwsDump::VERSION
   spec.authors       = ["Joshua Bussdieker"]
   spec.email         = ["jbussdieker@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.summary       = %q{Dump AWS data from API}
+  spec.homepage      = "https://github.com/jbussdieker/aws_dump"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
